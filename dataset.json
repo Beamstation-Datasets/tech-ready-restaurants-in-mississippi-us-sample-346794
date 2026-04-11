@@ -1,0 +1,22 @@
+{
+  "base_price": 3495,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "sales",
+  "config_description": "The \"Low Hanging Fruit.\" They have the budget but need the tech.\n\nRestaurants well-established (Beam Score > 70) and performing (sentiments last 30 days > 10 that lack online reservation AND online ordering\n\nReady for technology adoption and modernization.",
+  "config_name": "Tech-Ready Restaurants in Mississippi, US",
+  "export_job_id": "6ec62ed7-0f6f-4634-b2fb-6528a4999774",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 346794,
+  "location_name": "Mississippi",
+  "location_type": "state",
+  "repo_name": "tech-ready-restaurants-in-mississippi-us-sample-346794",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/346794/beamstation_346794_restaurants-us-ms_SAMPLE_DIST.csv",
+  "sample_pct": 20.0,
+  "sample_records": 1,
+  "sample_sha256": "7a7d3658f72ea25d75fe418afa35c06e503dec7fb056e4655730d648db7921e7",
+  "sample_size_bytes": 19986,
+  "total_records": 5,
+  "updated_at": "2026-04-08T04:12:21.658323+00:00"
+}
