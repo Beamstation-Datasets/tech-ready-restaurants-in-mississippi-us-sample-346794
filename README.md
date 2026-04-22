@@ -9,9 +9,9 @@
 | Dataset ID | `346794` |
 | Location | Mississippi |
 | Category | Restaurants |
-| Full dataset size | 4 records |
-| Free sample size | 1 records (25.0%) |
-| Last export | 2026-04-15T08:54:00.131559+00:00 |
+| Full dataset size | 7 records |
+| Free sample size | 1 records (14.29%) |
+| Last export | 2026-04-22T16:50:55.099262+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/tech-ready-restaurants-in-mississippi-us-sample-346794/releases/download/sample-latest/beamstation_346794_restaurants-us-ms_SAMPLE_DIST.csv) |
 
 ## What is in this sample
