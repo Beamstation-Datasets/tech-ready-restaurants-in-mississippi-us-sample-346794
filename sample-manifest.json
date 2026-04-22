@@ -1,12 +1,12 @@
 {
-  "export_job_id": "becec4d6-8713-4fa6-b55c-c991661fb763",
+  "export_job_id": "c3c96281-d031-424b-a9e9-65f0819d8054",
   "id_short": 346794,
-  "published_at": "2026-04-19T07:49:59Z",
+  "published_at": "2026-04-22T19:35:54Z",
   "repo_name": "tech-ready-restaurants-in-mississippi-us-sample-346794",
   "sample_asset_name": "beamstation_346794_restaurants-us-ms_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/346794/beamstation_346794_restaurants-us-ms_SAMPLE_DIST.csv",
   "sample_records": 1,
-  "sample_sha256": "6a53d4bd566cb5c6c3604ccf91907a502ded3aef423dd24781bb5686cae6c04b",
-  "sample_size_bytes": 19977,
-  "total_records": 4
+  "sample_sha256": "230a9c0f7ef81923faaa5a04272a1197d80b0b482c5817a6f6442a84043ca7d7",
+  "sample_size_bytes": 20613,
+  "total_records": 7
 }
