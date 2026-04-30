@@ -1,6 +1,6 @@
 # Tech-Ready Restaurants in Mississippi, US
 
-> Free BeamStation sample export with 1 rows and masked direct-contact fields.
+> Free BeamStation sample export with 4 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `346794` |
 | Location | Mississippi |
 | Category | Restaurants |
-| Full dataset size | 7 records |
-| Free sample size | 1 records (14.29%) |
-| Last export | 2026-04-22T16:50:55.099262+00:00 |
+| Full dataset size | 42 records |
+| Free sample size | 4 records (9.52%) |
+| Last export | 2026-04-29T16:45:24.404409+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/tech-ready-restaurants-in-mississippi-us-sample-346794/releases/download/sample-latest/beamstation_346794_restaurants-us-ms_SAMPLE_DIST.csv) |
 
 ## What is in this sample
